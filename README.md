@@ -96,4 +96,4 @@ AI-powered deep learning system using EfficientNetB0 and MobileNetV2 to classify
 
 ---
 
-### Thank you for visiting my GitHub profile!
+### Thank you for visiting my GitHub profile. Feel free to explore my projects and connect with me on LinkedIn.
