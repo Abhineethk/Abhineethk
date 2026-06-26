@@ -49,11 +49,11 @@ I am a BCA graduate specializing in Artificial Intelligence & Machine Learning w
 
 ## 📂 Featured Projects
 
-### 📊 HR Analytics Dashboard
+### 📊 [HR Analytics Dashboard](https://github.com/Abhineethk/hr-analytics-dashboard)
 
 End-to-end HR Analytics solution using Python, SQL, and Power BI to analyze employee attrition, workforce trends, and key HR metrics through an interactive dashboard.
 
-### 📈 Indian E-Commerce Sales Analysis
+### [Indian E-Commerce Sales Analysis](https://github.com/Abhineethk/indian-ecommerce-sales-analysis)
 
 SQL and Excel-based analytics project analyzing 20,000 orders to identify category performance, regional revenue trends, monthly sales trends, and business insights.
 
