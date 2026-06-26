@@ -57,7 +57,7 @@ End-to-end HR Analytics solution using Python, SQL, and Power BI to analyze empl
 
 SQL and Excel-based analytics project analyzing 20,000 orders to identify category performance, regional revenue trends, monthly sales trends, and business insights.
 
-### 🍎 GenZ Grab – Intelligent Fruit Quality Prediction
+### 🍎 [GenZ Grab – Intelligent Fruit Quality Prediction](https://github.com/Abhineethk/GenZ-Grab-Fruit-Quality-Prediction)
 
 AI-powered deep learning system using EfficientNetB0 and MobileNetV2 to classify fruit freshness, ripeness, and estimate shelf life.
 
