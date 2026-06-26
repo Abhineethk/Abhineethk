@@ -1,90 +1,98 @@
 # Hi, I'm Abhineeth K 👋
 
-## Aspiring Data Analyst
+## Data Analyst | SQL | Excel | Power BI | Python
 
-I am a BCA graduate specializing in Artificial Intelligence & Machine Learning with a strong interest in Data Analytics. I enjoy transforming data into meaningful insights using SQL, Excel, Power BI, and Python by building dashboards and analytical solutions that support business decision-making.
+I am a BCA graduate specializing in Artificial Intelligence & Machine Learning with a passion for Data Analytics. I enjoy solving business problems using data by building dashboards, performing exploratory data analysis, and developing end-to-end analytics projects using SQL, Excel, Power BI, and Python.
 
 ---
 
 ## 👨‍💻 About Me
 
-* BCA Graduate (AI & ML) from VIT, Vellore
-* Aspiring Data Analyst
-* Passionate about Business Intelligence, Data Visualization, and Analytics
-* Currently building practical analytics projects using SQL, Excel, Power BI, and Python
-* Currently learning Tableau and advanced analytics concepts
-* Based in Malappuram, Kerala, India
+- 🎓 BCA Graduate (AI & ML) – VIT, Vellore
+- 📊 Aspiring Data Analyst
+- 💡 Interested in Business Intelligence, Dashboard Development, and Data Visualization
+- 📈 Building real-world analytics projects using SQL, Excel, Power BI, and Python
+- 🌱 Currently learning Tableau and advanced Data Analytics concepts
+- 📍 Malappuram, Kerala, India
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 ### Data Analytics
 
-* SQL
-* Microsoft Excel
-* Power BI
-* Python
+- SQL
+- Microsoft Excel
+- Power BI
+- Python
 
 ### Python Libraries
 
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
-### Database
+### Databases
 
-* MySQL
+- MySQL
 
 ### Other Technologies
 
-* Java
-* HTML
-* CSS
-* PHP
-* ASP.NET Core MVC
+- Java
+- HTML
+- CSS
+- PHP
+- ASP.NET Core MVC
 
 ---
 
-## 📊 Featured Projects
+## 📂 Featured Projects
 
-### HR Analytics Dashboard
+### 📊 HR Analytics Dashboard
 
-Developed an end-to-end HR Analytics solution using Python, SQL, and Power BI to analyze employee attrition, identify workforce trends, and build an interactive dashboard supporting HR decision-making.
+End-to-end HR Analytics solution using Python, SQL, and Power BI to analyze employee attrition, workforce trends, and key HR metrics through an interactive dashboard.
 
-### Indian E-Commerce Sales Analysis
+### 📈 Indian E-Commerce Sales Analysis
 
-Built a complete SQL and Excel-based sales analytics solution by analyzing 20,000 orders, identifying regional revenue trends, category performance, and developing an executive dashboard with business insights.
+SQL and Excel-based analytics project analyzing 20,000 orders to identify category performance, regional revenue trends, monthly sales trends, and business insights.
 
-### GenZ Grab – Intelligent Fruit Quality Prediction
+### 🍎 GenZ Grab – Intelligent Fruit Quality Prediction
 
-Developed an AI-powered fruit quality prediction system using EfficientNetB0 and MobileNetV2 to classify freshness, ripeness, and estimate shelf life through deep learning techniques.
+AI-powered deep learning system using EfficientNetB0 and MobileNetV2 to classify fruit freshness, ripeness, and estimate shelf life.
 
 ---
 
 ## 🌱 Currently Learning
 
-* Tableau
-* Advanced SQL
-* Data Storytelling
-* Business Analytics
+- Tableau
+- Advanced SQL
+- Data Storytelling
+- Business Analytics
 
 ---
 
 ## 📜 Certifications
 
-* Deloitte Data Analytics Job Simulation (Forage)
-* NVIDIA Fundamentals of Deep Learning
+- Deloitte Data Analytics Job Simulation – Forage
+- NVIDIA Fundamentals of Deep Learning
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/abhineeth-k-381a21238/)
-* GitHub: https://github.com/Abhineethk
-* Email: [abhineethks2005@gmail.com](mailto:abhineethks2005@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/abhineeth-k-381a21238/)
+- 📧 Email: [abhineethks2005@gmail.com](mailto:abhineethks2005@gmail.com)
+- 🌐 GitHub: https://github.com/Abhineethk
 
 ---
 
-Thank you for visiting my GitHub profile. Feel free to explore my repositories and connect with me.
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhineethk&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhineethk&layout=compact&theme=default)
+
+---
+
+### Thank you for visiting my GitHub profile!
