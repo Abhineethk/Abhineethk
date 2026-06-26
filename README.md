@@ -72,6 +72,15 @@ AI-powered deep learning system using EfficientNetB0 and MobileNetV2 to classify
 
 ---
 
+## 🚀 Current Focus
+
+- Building Data Analytics portfolio projects
+- Strengthening SQL and Power BI skills
+- Learning Tableau
+- Preparing for Data Analyst interviews
+
+---
+
 ## 📜 Certifications
 
 - Deloitte Data Analytics Job Simulation – Forage
@@ -84,14 +93,6 @@ AI-powered deep learning system using EfficientNetB0 and MobileNetV2 to classify
 - 💼 LinkedIn: [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/abhineeth-k-381a21238/)
 - 📧 Email: [abhineethks2005@gmail.com](mailto:abhineethks2005@gmail.com)
 - 🌐 GitHub: https://github.com/Abhineethk
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhineethk&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhineethk&layout=compact&theme=default)
 
 ---
 
