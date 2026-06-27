@@ -90,7 +90,7 @@ AI-powered deep learning system using EfficientNetB0 and MobileNetV2 to classify
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/abhineeth-k-381a21238/)
+- 💼 LinkedIn: https://www.linkedin.com/in/abhineeth-k-381a21238/
 - 📧 Email: [abhineethks2005@gmail.com](mailto:abhineethks2005@gmail.com)
 - 🌐 GitHub: https://github.com/Abhineethk
 
